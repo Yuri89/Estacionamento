@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.exe
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.deps.json
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.dll
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.pdb
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.dll
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\refint\SistemaEstacionamento.dll
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.pdb
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\PICHAU\Documents\Programas e Projetos\C#\SistemaEstacionamento\obj\Debug\net6.0\ref\SistemaEstacionamento.dll
